@@ -11,8 +11,5 @@ This is a youtube-dl video downloader wrapper.
 
 ## Changelog
 
-### 0.0.2
-Update youtube-dl script to last binary version. This update fixed download from youtube error.
-
 ### 0.0.1
 Initial release.
